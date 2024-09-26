@@ -43,8 +43,6 @@ The dataset is sourced from Kaggle and contains information about aviation accid
 2. The most common causes of aviation accidents include pilot error, mechanical failure, and weather conditions.
 3. Fatal accidents are more likely to occur during the takeoff and landing phases of flight.
 
-## Commit History
-The commit history shows a progression of updates throughout the project time period, with clear commit messages. Commits from all team members are included (if applicable).
 
 ## Organization
 The repository is organized with a clear folder structure and clear names of files and folders. The final notebook and presentation are easily located and linked in the README.
